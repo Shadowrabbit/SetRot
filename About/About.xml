@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <packageId>SR.ToolRimworld.SetRot</packageId>
+    <name>[SR]Set Rotation</name>
+    <author>Shadowrabbit</author>
+    <supportedVersions>
+        <li>1.2</li>
+    </supportedVersions>
+    <loadAfter>
+        <li>Ludeon.RimWorld</li>
+        <li>Ludeon.RimWorld.Royalty</li>
+    </loadAfter>
+    <description>This is a tool for artists to fast change all pawn's roration to check pose.</description>
+</ModMetaData>
