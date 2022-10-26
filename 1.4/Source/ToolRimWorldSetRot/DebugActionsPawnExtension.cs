@@ -21,7 +21,7 @@ namespace SR.ToolRimWorld.SetRot
         /// </summary>
         [UsedImplicitly]
         [DebugAction("SR.ToolRimWorld.SetRot", "Change all rotations of pawns in map", allowedGameStates = AllowedGameStates.PlayingOnMap)]
-        private static void IssueDecree()
+        private static void SetRot()
         {
             var debugMenuOptionList = new List<DebugMenuOption>();
             var debugMenuOptionEast = new DebugMenuOption("East", DebugMenuOptionMode.Tool,

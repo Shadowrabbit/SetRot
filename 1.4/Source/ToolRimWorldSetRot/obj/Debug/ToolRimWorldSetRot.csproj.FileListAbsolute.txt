@@ -4,3 +4,9 @@ C:\Users\ausu\Desktop\SetRot\1.4\Source\ToolRimWorldSetRot\obj\Debug\ToolRimWorl
 C:\Users\ausu\Desktop\SetRot\1.4\Source\ToolRimWorldSetRot\obj\Debug\ToolRimWorldSetRot.csproj.CoreCompileInputs.cache
 C:\Users\ausu\Desktop\SetRot\1.4\Source\ToolRimWorldSetRot\obj\Debug\ToolRimWorldSetRot.dll
 C:\Users\ausu\Desktop\SetRot\1.4\Source\ToolRimWorldSetRot\obj\Debug\ToolRimWorldSetRot.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SetRot\1.4\Assemblies\ToolRimWorldSetRot.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SetRot\1.4\Assemblies\ToolRimWorldSetRot.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SetRot\1.4\Source\ToolRimWorldSetRot\obj\Debug\ToolRimWorldSetRot.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SetRot\1.4\Source\ToolRimWorldSetRot\obj\Debug\ToolRimWorldSetRot.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SetRot\1.4\Source\ToolRimWorldSetRot\obj\Debug\ToolRimWorldSetRot.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SetRot\1.4\Source\ToolRimWorldSetRot\obj\Debug\ToolRimWorldSetRot.pdb
