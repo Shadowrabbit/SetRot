@@ -1,0 +1,6 @@
+C:\Users\ausu\Desktop\SetRot\1.4\Assemblies\ToolRimWorldSetRot.dll
+C:\Users\ausu\Desktop\SetRot\1.4\Assemblies\ToolRimWorldSetRot.pdb
+C:\Users\ausu\Desktop\SetRot\1.4\Source\ToolRimWorldSetRot\obj\Debug\ToolRimWorldSetRot.csproj.AssemblyReference.cache
+C:\Users\ausu\Desktop\SetRot\1.4\Source\ToolRimWorldSetRot\obj\Debug\ToolRimWorldSetRot.csproj.CoreCompileInputs.cache
+C:\Users\ausu\Desktop\SetRot\1.4\Source\ToolRimWorldSetRot\obj\Debug\ToolRimWorldSetRot.dll
+C:\Users\ausu\Desktop\SetRot\1.4\Source\ToolRimWorldSetRot\obj\Debug\ToolRimWorldSetRot.pdb
